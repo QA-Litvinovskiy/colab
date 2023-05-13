@@ -1,3 +1,1 @@
-Hi All.
-
-test 1
+Hi All
